@@ -21,6 +21,8 @@ Hieronder vindt u de probleemstelling opgedeeld in verschillende delen:
 
 ##  Mindmap
 
+Hieronder vindt u een mindmap.
+
 ![Mindmap](./assets/mindmap.jpg)
 
 
